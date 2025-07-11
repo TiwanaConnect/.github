@@ -89,7 +89,7 @@ TiwanaConnect respects family privacy deeply:
 
 > "I'm building TiwanaConnect as a long-term gift for my family. It's not just an app — it's digital heritage."
 
-Developed by [@MuhammadArslanTiwana](https://github.com/MuhammadArslanTiwana), a full-stack software engineer with professional experience in backend systems, frontend interfaces, and cloud infrastructure. Every line of code is written with care, love, and the goal of long-term value.
+Developed by [@ArslanTiwana](https://github.com/ArslanTiwana), a full-stack software engineer with professional experience in backend systems, frontend interfaces, and cloud infrastructure. Every line of code is written with care, love, and the goal of long-term value.
 
 ---
 
